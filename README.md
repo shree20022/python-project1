@@ -1,2 +1,2 @@
 # python-project1
-Snake ,Water, Gun  Game
+Perfect number guessing game  
